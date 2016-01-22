@@ -7,7 +7,7 @@ Darmok is an open-source project attempting to solve (through software) one of t
 # Current leadership team
 
 * David Silverman (Project co-founder and CTO, core committer)
-* Jim Fuelle (Project co-founder, Microservices architect, core committer)
+* Jim Feuille (Project co-founder, Microservices architect, core committer)
 * Eric Chin (Technical steering committe co-chair, currently on sabbatical)
 * Ed Roman (TSA and NASA relations, core committer)
 * Omar El-Ayat (Erlang integration specialist)
