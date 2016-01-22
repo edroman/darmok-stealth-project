@@ -15,7 +15,7 @@ Darmok is an open-source project attempting to solve (through software) one of t
 
 # Online Documentation
 
-You can find the latest Darmok documentation, including a programming guide, on the project web page and project wiki.  As the project is currently in pre-alpha, please contact us for instructions to access these assets (due to securtiy, please include your PGP public key for authenticity veritifcation).
+You can find the latest Darmok documentation, including a programming guide, on the project web page and project wiki.  As the project is currently in pre-alpha, please contact us for instructions to access these assets (due to security, please include your PGP public key for authenticity verification).
 
 # Contributing
 
