@@ -2,7 +2,7 @@
 
 "Darmok and Jilad at Tanagra"
 
-Darmok is an open-source project attempting to solve (through software) one of the most daunting and fundamental challenges we have in society.  The project is currently in stealth mode and is hosted in a private repository.  This placeholder repository exists to answer general public questions about the project.
+Darmok is an open-source project attempting to solve (through software) one of the most daunting and fundamental challenges we have in society.  The project is currently in stealth mode and is hosted in a private, invite-only repository.  This placeholder repository exists to answer general public questions about the project.
 
 # Current leadership team
 
